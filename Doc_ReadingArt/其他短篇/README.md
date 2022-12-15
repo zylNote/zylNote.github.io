@@ -1,7 +1,7 @@
 ---
-sort: 1
+sort: 9
 ---
 
-# 编程基础
+# 其他短篇
 
 {% include list.liquid all=true %}

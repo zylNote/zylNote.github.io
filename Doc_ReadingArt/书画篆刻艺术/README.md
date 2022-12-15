@@ -2,6 +2,6 @@
 sort: 1
 ---
 
-# 编程基础
+# 书画篆刻艺术
 
 {% include list.liquid all=true %}
