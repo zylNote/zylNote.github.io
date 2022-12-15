@@ -1,7 +1,7 @@
 ---
-sort: 20
+sort: 1
 ---
 
-# 社科阅读与艺术
+# 编程基础
 
 {% include list.liquid all=true %}
