@@ -1,7 +1,7 @@
 ---
-sort: 2
+sort: 1
 ---
 
-# 第二部分
+# 编程基础
 
 {% include list.liquid all=true %}

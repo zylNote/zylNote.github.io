@@ -2,6 +2,6 @@
 sort: 1
 ---
 
-# 第一部分
+# 基础知识
 
 {% include list.liquid all=true %}
