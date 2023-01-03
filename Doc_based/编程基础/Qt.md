@@ -10,7 +10,7 @@
 
 Qt的界面中的坐标系定义为：屏幕左上角为坐标原点，水平向右为X轴正方向，竖直向下为Y轴正方向。对于组件来说，左上角是其坐标原点
 
-![](Qt_img/Qt_coordinate.png)
+![](Qt_img/Qt_coordinate.png#pic_center)
 
 
 
