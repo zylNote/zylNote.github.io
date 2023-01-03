@@ -12,7 +12,7 @@
 
 ## 相关链接
 
-[张老师主页](https://users.encs.concordia.ca/~ymzhang/publications.html)  | [Github](https://github.com) | http://www.armbbs.cn/)  | [百问网](https://www.100ask.net/index)   |  [正点原子论坛](http://www.openedv.com/)   |  [正点原子资料下载](http://www.openedv.com/docs/index.html) | 
+[张老师主页](https://users.encs.concordia.ca/~ymzhang/publications.html)  | [Github](https://github.com)  | [百问网](https://www.100ask.net/index)   |  [正点原子论坛](http://www.openedv.com/)   |  [正点原子资料下载](http://www.openedv.com/docs/index.html) | 
 
 诗词书画： |  [古诗文网](https://www.gushiwen.cn/)   |   [书法字典](http://www.shufazidian.com/)    |  [古诗文网](http://www.gushice.com/)    |  [文言文之家](http://www.wywzj.cn/)  |    [书法字典公众号站内搜索](https://data.newrank.cn/m/s.html?s=OzEpPiw+PjxH) | [标准草书](http://www.360doc.cn/mip/795643749.html)     |  [书画篆刻库](https://life696.github.io/shuFaImg/Doc_Art/)
 
