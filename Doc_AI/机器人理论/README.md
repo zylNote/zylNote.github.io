@@ -1,7 +1,7 @@
 ---
-sort: 3
+sort: 4
 ---
 
-# 自动控制理论
+# 机器人理论
 
 {% include list.liquid all=true %}
