@@ -1,7 +1,7 @@
 ---
-sort: 2
+sort: 1
 ---
 
-# 建图与导航SLAM
+# 软硬件配置
 
 {% include list.liquid all=true %}

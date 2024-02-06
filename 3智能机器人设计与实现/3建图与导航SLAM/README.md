@@ -1,7 +1,7 @@
 ---
-sort: 6
+sort: 3
 ---
 
-# Python
+# 建图与导航SLAM
 
 {% include list.liquid all=true %}

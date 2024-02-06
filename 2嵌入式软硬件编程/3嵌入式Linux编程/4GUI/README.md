@@ -1,7 +1,7 @@
 ---
-sort: 1
+sort: 4
 ---
 
-# 路径规划与轨迹生成
+# GUI
 
 {% include list.liquid all=true %}
