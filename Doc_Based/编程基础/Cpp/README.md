@@ -1,7 +1,0 @@
----
-sort: 1
----
-
-# Cpp
-
-{% include list.liquid all=true %}

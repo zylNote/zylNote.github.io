@@ -1,7 +1,7 @@
 ---
-sort: 1
+sort: 2
 ---
 
-# 基础知识
+# 二级矩阵论
 
 {% include list.liquid all=true %}
