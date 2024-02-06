@@ -1,7 +1,8 @@
 ---
-sort: 2
+sort: 3
 ---
 
-# 编程基础
+# 图像分割
 
 {% include list.liquid all=true %}
+

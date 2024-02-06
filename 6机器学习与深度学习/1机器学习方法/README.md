@@ -1,7 +1,7 @@
 ---
-sort: 4
+sort: 1
 ---
 
-# 复变函数
+# 机器学习方法
 
 {% include list.liquid all=true %}

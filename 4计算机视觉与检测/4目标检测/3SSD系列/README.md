@@ -1,7 +1,7 @@
 ---
-sort: 1
+sort: 2
 ---
 
-# 数学基础
+# SSD系列
 
 {% include list.liquid all=true %}
