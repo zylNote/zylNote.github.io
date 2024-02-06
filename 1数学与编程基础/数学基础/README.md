@@ -1,7 +1,7 @@
 ---
-sort: 2
+sort: 1
 ---
 
-# 微积分
+# 数学基础
 
 {% include list.liquid all=true %}

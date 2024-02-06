@@ -1,7 +1,7 @@
 ---
-sort: 1
+sort: 2
 ---
 
-# 基础
+# C语言
 
 {% include list.liquid all=true %}

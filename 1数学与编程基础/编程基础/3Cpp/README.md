@@ -1,7 +1,7 @@
 ---
-sort: 2
+sort: 3
 ---
 
-# 矩阵论
+# C++语言
 
 {% include list.liquid all=true %}

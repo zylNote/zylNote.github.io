@@ -1,7 +1,7 @@
 ---
-sort: 2
+sort: 4
 ---
 
-# 微积分
+# 复变函数
 
 {% include list.liquid all=true %}
