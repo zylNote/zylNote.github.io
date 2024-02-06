@@ -2,6 +2,6 @@
 sort: 2
 ---
 
-# 编程基础
+# 图像分类
 
 {% include list.liquid all=true %}
