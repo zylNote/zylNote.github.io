@@ -2,6 +2,6 @@
 sort: 2
 ---
 
-# 嵌入式Linux编程
+# 经典路径规划方法
 
 {% include list.liquid all=true %}

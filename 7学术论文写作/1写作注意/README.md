@@ -1,7 +1,7 @@
 ---
-sort: 2
+sort: 1
 ---
 
-# 嵌入式Linux编程
+# 学术论文写作基本方法
 
 {% include list.liquid all=true %}

@@ -1,7 +1,7 @@
 ---
-sort: 2
+sort: 1
 ---
 
-# 嵌入式Linux编程
+# 视觉惯性里程计VIO
 
 {% include list.liquid all=true %}
