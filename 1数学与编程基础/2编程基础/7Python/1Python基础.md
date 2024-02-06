@@ -1,7 +1,7 @@
 ---
-sort: 1
+sort: 6
 ---
 
-# 微积分
+# Python基础
 
 {% include list.liquid all=true %}
