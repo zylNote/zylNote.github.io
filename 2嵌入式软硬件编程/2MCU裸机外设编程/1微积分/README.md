@@ -2,6 +2,6 @@
 sort: 1
 ---
 
-# 数学基础
+# 微积分
 
 {% include list.liquid all=true %}

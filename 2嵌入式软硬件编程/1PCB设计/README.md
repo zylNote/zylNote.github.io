@@ -1,8 +1,7 @@
 ---
-sort: 3
+sort: 1
 ---
 
-# 概率与统计
+# MCU裸机外设编程
 
 {% include list.liquid all=true %}
-

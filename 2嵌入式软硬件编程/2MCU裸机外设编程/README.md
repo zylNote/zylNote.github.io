@@ -1,7 +1,7 @@
 ---
-sort: 4
+sort: 2
 ---
 
-# 复变函数
+# MCU裸机外设编程
 
 {% include list.liquid all=true %}
