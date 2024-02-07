@@ -1,8 +1,7 @@
 ---
-sort: 4
+sort: 1
 ---
 
-# 计算机视觉与检测
+# bootloader
 
 {% include list.liquid all=true %}
-

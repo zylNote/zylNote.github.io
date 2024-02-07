@@ -1,7 +1,7 @@
 ---
-sort: 1
+sort: 7
 ---
 
-# 汇编语言
+# 计算式视觉与检测
 
 {% include list.liquid all=true %}
