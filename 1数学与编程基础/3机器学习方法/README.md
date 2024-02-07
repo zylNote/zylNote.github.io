@@ -1,7 +1,7 @@
 ---
-sort: 1
+sort: 3
 ---
 
-# 汇编语言
+# 机器学习方法
 
 {% include list.liquid all=true %}
