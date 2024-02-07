@@ -1,7 +1,8 @@
 ---
-sort: 5
+sort: 4
 ---
 
-# 建图与导航SLAM
+# 无人机建模与控制
 
 {% include list.liquid all=true %}
+

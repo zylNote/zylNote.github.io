@@ -2,6 +2,6 @@
 sort: 6
 ---
 
-# 机器人仿真环境搭建
+# 建图与导航SLAM
 
 {% include list.liquid all=true %}
