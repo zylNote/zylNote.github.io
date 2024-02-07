@@ -1,7 +1,7 @@
 ---
-sort: 1
+sort: 6
 ---
 
-# 软硬件配置
+# 机器人仿真环境搭建
 
 {% include list.liquid all=true %}

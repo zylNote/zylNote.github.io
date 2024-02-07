@@ -1,7 +1,7 @@
 ---
-sort: 3
+sort: 5
 ---
 
-# 路径规划与轨迹生成
+# 建图与导航SLAM
 
 {% include list.liquid all=true %}
