@@ -1,4 +1,22 @@
-# IDEA Plugin 开发手册 🔥
+# 欢迎来到 🔥
+
+
+
+$\boldsymbol b =[b_1,b_2,b_3]^T$
+$$
+\boldsymbol a \times \boldsymbol b=\left[\begin{array}{ccc}
+0 & -a_3 & a_2 \\
+a_3 & 0 & -a_1 \\
+-a_2 & a_1 & 0
+\end{array}\right] \boldsymbol{b} \stackrel{\text { def }}{=} \boldsymbol{a}^{\wedge} \boldsymbol{b}
+$$
+
+$$
+\operatorname{SO}(n)=\left\{\boldsymbol{R} \in \mathbb{R}^{n \times n} \mid \boldsymbol{R} \boldsymbol{R}^{\mathrm{T}}=\boldsymbol{I}, \operatorname{det}(\boldsymbol{R})=1\right\}
+$$
+
+
+
 
 >你好，我是小傅哥，[《重学Java设计模式》](https://item.jd.com/13218336.html) 图书作者，一线互联网 Java 工程师、架构师。
 
@@ -70,6 +88,7 @@ IDEA 插件开发可以帮助研发人员提升能效，解决一些实际场景
 ![](https://github.com/fuzhengwei/small-spring/blob/main/docs/assets/img/bugstack-md.png?raw=true)
 
 <br/>
+
 <div align="center">
     <a href="https://github.com/fuzhengwei/CodeGuide">关注小傅哥，你可以学到的更多！</a>
 </div>
