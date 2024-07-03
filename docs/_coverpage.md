@@ -1,4 +1,4 @@
-![logo](_media/logo.jpg)
+![logo](_media/logo.png)
 
 # 上面1111
 
