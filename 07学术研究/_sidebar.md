@@ -1,6 +1,10 @@
 - [:octocat: 首页](/)
-
-  * [论文写作](07学术研究/论文写作.md)
-  * [研究分析](07学术研究/研究分析.md)
-  * [科研进展](07学术研究/科研进展.md)
-  
+* [<span style="margin-left: -1.3em;"> <font color=#DC143C>论文写作</font>](07学术研究/01论文写作首页.md)
+  * [如何写摘要](07学术研究/如何写摘要.md) 
+  * [如何写结论](07学术研究/如何写结论.md)
+* [<span style="margin-left: -1.3em;"> <font color=#DC143C>科研方向分析</font>](07学术研究/02科研方向分析首页.md)
+  * [科研进展](07学术研究/科研方向分析.md) 
+* [<span style="margin-left: -1.3em;"> <font color=#DC143C>一些思考</font>](07学术研究/07一些思考首页.md)
+  * [一些思考](07学术研究/一些思考.md)
+* [<span style="margin-left: -1.3em;"> <font color=#DC143C>其他</font>](07学术研究/09其他首页.md)
+  * [其他](07学术研究/其他.md)

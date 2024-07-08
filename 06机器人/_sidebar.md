@@ -1,16 +1,27 @@
 - [:octocat: 首页](/)
-
-  * [三维建模](06机器人/三维建模.md)
-  * [三维运动学](06机器人/三维运动学.md)
-  * [ROS](06机器人/ROS.md)
-  * [路径规划](06机器人/路径规划.md)
-  * [轨迹优化](06机器人/轨迹优化.md)
+* [<span style="margin-left: -1.3em;"> <font color=#DC143C>三维机械建模</font>](06机器人/01三维机械建模首页.md)
+  * [机械原理](06机器人/机械原理.md)
+  * [三维制图](06机器人/三维制图.md)
+* [<span style="margin-left: -1.3em;"> <font color=#DC143C>三维刚体运动学</font>](06机器人/02三维刚体运动学首页.md)
+  * [三维刚体运动学](06机器人/三维刚体运动学.md)
+  * [李代数分析](06机器人/李代数分析.md)
+* [<span style="margin-left: -1.3em;"> <font color=#DC143C>ROS</font>](06机器人/03ROS首页.md)
+  * [ROS安装与使用](06机器人/ROS安装与使用.md)
+  * [ROS下的一些仿真](06机器人/ROS下的一些仿真.md)
+* [<span style="margin-left: -1.3em;"> <font color=#DC143C>路径规划</font>](06机器人/04路径规划首页.md)
+  * [路径规划方法](06机器人/路径规划方法.md)
+  * [路径规划优化](06机器人/路径规划优化.md)
+* [<span style="margin-left: -1.3em;"> <font color=#DC143C>SLAM</font>](06机器人/05SLAM首页.md)
   * [视觉SLAM](06机器人/视觉SLAM.md)
-  ------
   * [激光SLAM](06机器人/激光SLAM.md)
-  * [无人系统设计](06机器人/无人系统设计.md)
-
-
-
+  * [传感器数据融合](06机器人/传感器数据融合.md)
+  * [IMU预积分](06机器人/IMU预积分.md)
+* [<span style="margin-left: -1.3em;"> <font color=#DC143C>开源算法</font>](06机器人/06开源算法首页.md)
+  * [开源算法1](06机器人/开源算法1.md)
+  * [开源算法2](06机器人/开源算法2.md)
+  * [开源算法3](06机器人/开源算法3.md)
+  * [开源算法4](06机器人/开源算法4.md)
+* [<span style="margin-left: -1.3em;"> <font color=#DC143C>无人系统设计</font>](06机器人/07无人系统设计首页.md)
+  * [无人机系统设计方案](06机器人/无人机系统设计方案.md)
 
   
