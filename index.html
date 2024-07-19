@@ -321,15 +321,15 @@
 <body>
 <div id="app">正在加载中...</div>
 
-<div class="aside_container">
+<!-- <div class="aside_container">
     <div class="advertisement">
       <div class="Tencent_code">
-        <!-- <h5>二维码</h5> -->
+        <h5>二维码</h5>
         <p style="font-size: 16px;">一起学</p>
         <img src="imgs/logoright.png" alt="EnjoyToShare" />
       </div>
     </div>
-</div>
+</div> -->
 
 
   <script>
@@ -351,7 +351,13 @@
       externalLinkTarget: '_blank', //外链打开方式：_blank表示在新标签页中打开
       onlyCover: true,   // 设置为 true 后会加载 _navbar.md 文件
       topMargin: 20,//调整top
- 
+       // 字数统计
+    //  count:{
+    //    countable:true,
+    //    fontsize:'0.9em',
+    //    color:'rgb(90,90,90)',
+    //    language:'chinese'
+    //  },
       toc: {
           tocMaxLevel: 6,
           target: "h1,h2,h3,h4,h5,h6",
@@ -374,6 +380,10 @@
       },
   }
 </script>
+
+<!-- 字数统计 -->
+<!-- <script src="//unpkg.com/docsify-count/dist/countable.js"></script> -->
+
 
 <script src="/plugin/js/docsify.min.js"></script>
 <script src="/plugin/search.min.js"></script>
